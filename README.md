@@ -1,35 +1,38 @@
 # Coin-Man
-This is actually Super Mario Run Lite version. 
+This is actually Super Mario Run Lite version made in Java using Android Studio.
 <p align="center">
      <img src="https://github.com/AArgharupa/COINMAN/blob/master/android/res/drawable-hdpi/frame.png" alt="Screenshot Assistant" width="20%">
 </p>
+
 ## Game Starts !
 </br>
-
-<div align="center">
+<P align="center">
      <img src="https://github.com/AArgharupa/Coin-Man-APK/blob/master/coinManScreenShots/Screenshot_1600718548.png"    height="500">
-</div>
-</BR>
+</P>
+
 ## COIN MAN RUNS
-</br>
 
-<div align="center">
+<p align="center">
      <img src="https://github.com/AArgharupa/Coin-Man-APK/blob/master/coinManScreenShots/Screenshot_1600718590.png"    height="500">
-</div>
+</p>
 </br>
+
 ## THE BOMB COMES 
+
 </br>
 
-<div align="center">
+<p align="center">
      <img src="https://github.com/AArgharupa/Coin-Man-APK/blob/master/coinManScreenShots/Screenshot_1600718632.png"    height="500">
-</div>
+</p>
 </BR>
+
 ## GAME ENDS
+
 </br>
 
-<div align="center">
+<p align="center">
      <img src="https://github.com/AArgharupa/Coin-Man-APK/blob/master/coinManScreenShots/Screenshot_1600718593.png"    height="500">
-</div>
+</p>
 
 
 
