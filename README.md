@@ -1,5 +1,5 @@
 # Coin-Man
-This is actually Super Mario Run Lite version made in Java using Android Studio.
+This is actually Super Mario Run Lite version made in Java using Android Studio and LibGDX.
 <p align="center">
      <img src="https://github.com/AArgharupa/COINMAN/blob/master/android/res/drawable-hdpi/frame.png" alt="Screenshot Assistant" width="20%">
 </p>
@@ -49,4 +49,4 @@ Download the Apk file on your Android phone and just install the  App/game via i
 
 
 ### Through this project I've learned -
-* **GDX setup**
+* **LibGDX setup**
